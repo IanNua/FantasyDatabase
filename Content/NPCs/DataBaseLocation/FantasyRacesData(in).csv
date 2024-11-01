@@ -7,3 +7,9 @@ Entry5,Elf,90,4,Null,Null
 Entry6,Troll,200,5,/Script/Paper2D.PaperSprite'/Game/NPCs/Sprites/TrollImage.TrollImage',/Script/Engine.StaticMesh'/Game/NPCs/3DModels/trool.trool'
 Entry7,Dwarf,150,4,Null,Null
 Entry8,Giant,300,100,Null,Null
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Entry15,Ape,69,420,Null,Null
