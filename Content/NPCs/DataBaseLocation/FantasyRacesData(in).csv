@@ -7,3 +7,12 @@ Entry5,Elf,90,4,Null,Null
 Entry6,Troll,200,5,/Script/Paper2D.PaperSprite'/Game/NPCs/Sprites/TrollImage.TrollImage',/Script/Engine.StaticMesh'/Game/NPCs/3DModels/trool.trool'
 Entry7,Dwarf,150,4,Null,Null
 Entry8,Giant,300,100,Null,Null
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Entry17,The Krotons DVD,35,2,/Script/Paper2D.PaperSprite'/Game/NPCs/Sprites/TheKrotonsDVD_Sprite_0.TheKrotonsDVD_Sprite_0',Null
